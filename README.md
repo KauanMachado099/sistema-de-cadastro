@@ -2,7 +2,7 @@
 
 > status do projeto
 
-TESTE 0.1
+TESTE 0.2
 
 ```
 node app.js
