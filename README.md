@@ -5,5 +5,5 @@
 TESTE
 
 ```
-ls
+node app.js
 ```
